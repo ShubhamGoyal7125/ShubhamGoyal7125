@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgoyal7125&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgoyal7125" /> </p>
 
-- 👯 I’m looking to collaborate on **Innovative and Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://shubhamgoyal7125.github.io/Portfolio/](https://shubhamgoyal7125.github.io/Portfolio/)
 
