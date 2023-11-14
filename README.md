@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhamgoyal7125.github.io/Portfolio/](https://shubhamgoyal7125.github.io/Portfolio/)
 
-- 💬 Ask me about **React.js, Express.js, MongoDB, MySQL**
+- 💬 Ask me about **React.js, Node.js, MongoDB, MySQL**
 
 - 📫 How to reach me **shubhamgoyal7125@gmail.com**
 
