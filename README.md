@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://shubhamgoyal7125.github.io/Portfolio/](https://shubhamgoyal7125.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shubhamgoyal7125.github.io/Portfolio/](https://shubhamgoyal7125.github.io/my-portfolio/)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, MySQL**
 
